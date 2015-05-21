@@ -1,0 +1,2 @@
+# GameXADM
+GameX Adminstrator Panel
